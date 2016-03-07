@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/giraldomauricio/phpXelerator5.svg?branch=master)](https://travis-ci.org/giraldomauricio/phpXelerator5)
+
 # Videoedge
 Implementation of the American Dynamics Video Edge API in Ruby. Not endorsed by American Dynamics.
 
