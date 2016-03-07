@@ -1,0 +1,5 @@
+language: jruby
+rvm:
+  - "9.0.4"
+
+script: bundle exec rspec spec
