@@ -1,0 +1,17 @@
+---
+- ip: 10.21.200.100
+  name: Reception Area
+  recording: Ok
+  enabled: Ok
+- ip: 10.21.200.101
+  name: Parking Lot
+  recording: Ok
+  enabled: Ok
+- ip: 10.21.200.102
+  name: Reception Area
+  recording: Ok
+  enabled: Ok
+- ip: 10.21.200.103
+  name: Parking Lot
+  recording: Ok
+  enabled: Ok
